@@ -677,4 +677,7 @@ input[type="submit"]:hover {
     display: table;
     clear: both;
   }
+  .navbar li:not(:last-child) {
+    visibility: hidden;
+  }
 }
