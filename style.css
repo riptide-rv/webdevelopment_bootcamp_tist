@@ -602,7 +602,9 @@ input[type="submit"]:hover {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 1rem;
+    font-size: 1.34rem;
+     min-width: 100%;
+    text-align: center;
     color: var(--cofee-junkie);
     font-family: "Supermercado One", cursive;
   }
